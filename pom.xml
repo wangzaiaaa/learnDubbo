@@ -16,6 +16,7 @@
         <module>dubbo-demo-interface</module>
         <module>dubbo-demo-common</module>
         <module>dubbo-demo-xml-consumer</module>
+        <module>dubbo-demo-annotation-provider</module>
     </modules>
 
     <dependencyManagement>

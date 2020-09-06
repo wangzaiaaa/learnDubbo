@@ -1,7 +1,7 @@
 package top.zw.learn.dubbo.consumer;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import top.zw.lean.dubbo.demo.DemoService;
+import top.zw.learn.dubbo.demo.DemoService;
 
 /**
  * @program: learnDubbo

@@ -1,7 +1,7 @@
 package top.zw.learn.dubbo.provider;
 
 import org.apache.dubbo.rpc.RpcContext;
-import top.zw.lean.dubbo.demo.DemoService;
+import top.zw.learn.dubbo.demo.DemoService;
 
 import java.util.concurrent.CompletableFuture;
 

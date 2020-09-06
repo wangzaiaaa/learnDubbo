@@ -1,4 +1,4 @@
-package top.zw.lean.dubbo.demo;
+package top.zw.learn.dubbo.demo;
 
 import java.util.concurrent.CompletableFuture;
 
